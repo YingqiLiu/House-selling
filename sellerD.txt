@@ -1,0 +1,3 @@
+Listing price:400000
+
+Square footage:3200
